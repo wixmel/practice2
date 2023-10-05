@@ -1,0 +1,43 @@
+p {
+    background-color: rgb(113, 172, 224);
+}
+a {
+
+    background-color: rgb(96, 228, 140);
+}
+table,
+th,
+td {
+    border: 1px solid black;
+}
+div {
+
+    background-color: rgb(212, 212, 212)
+}
+span {
+    background-color: yellow;
+}
+
+h4 {
+    background-color: yellow;
+}
+
+.red {
+    background-color: rgb(255, 0, 0);
+}
+
+.green {
+    color: green;
+}
+
+#firstdiv {
+    color: rgb(218, 190, 226);
+}
+
+#thirddiv {
+    background-color: rgb(211, 192, 152);
+}
+
+#firstspan {
+    background-color: rgb(211, 192, 152);
+}
